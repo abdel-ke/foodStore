@@ -1,8 +1,8 @@
 ##Screenshots
 <div style="display: flex; flex-direction: 'row';">
-<img src="./screenshots/homePage.png" width=20%>
-<img src="./screenshots/itemInformation.png" width=20%>
-<img src="./screenshots/addedItems.png" width=20%>
-<img src="./screenshots/viewCart.png" width=20%>
-<img src="./screenshots/video.mp4" width=20%>
+<img src="./screenShots/homePage.png" width=20%>
+<img src="./screenShots/itemInformation.png" width=20%>
+<img src="./screenShots/addedItems.png" width=20%>
+<img src="./screenShots/viewCart.png" width=20%>
+<img src="./screenShots/video.mp4" width=20%>
 </div>
